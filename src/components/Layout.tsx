@@ -11,7 +11,7 @@ export default function Layout() {
             <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-indigo-600 text-white">
               📘
             </span>
-            Plano Certo
+            ensina.ai
           </Link>
           <nav className="flex items-center gap-2 text-sm">
             <Link
@@ -39,7 +39,7 @@ export default function Layout() {
         <Outlet />
       </main>
       <footer className="no-print text-center text-xs text-slate-400 py-4">
-        Plano Certo — planejamento de aulas para todos os níveis, alinhado à BNCC. Dados salvos apenas neste navegador.
+        ensina.ai — planejamento de aulas para todos os níveis, alinhado à BNCC. Dados salvos apenas neste navegador.
       </footer>
     </div>
   )

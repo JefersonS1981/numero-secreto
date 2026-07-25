@@ -1,4 +1,4 @@
-# Plano Certo
+# ensina.ai
 
 Aplicativo web para professores de todos os níveis planejarem aulas de forma
 rápida, alinhadas à BNCC (incluindo a BNCC Computação), com suporte a turmas

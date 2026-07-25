@@ -35,7 +35,7 @@ export default function ImportarBNCC() {
     <div className="max-w-2xl">
       <h1 className="text-xl font-semibold text-slate-800 mb-2">Importar habilidades oficiais da BNCC</h1>
       <p className="text-slate-600 text-sm mb-4">
-        Para manter fidelidade total ao texto oficial, o Plano Certo não tenta reproduzir de memória os
+        Para manter fidelidade total ao texto oficial, o ensina.ai não tenta reproduzir de memória os
         milhares de códigos e descrições de habilidades da BNCC. Em vez disso, o app inclui apenas uma{' '}
         <strong>amostra ilustrativa</strong> (marcada como "exemplo") para você testar o funcionamento.
       </p>

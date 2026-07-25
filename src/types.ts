@@ -1,4 +1,4 @@
-// Modelo de domínio do Plano Certo — planejamento de aulas alinhado à BNCC.
+// Modelo de domínio do ensina.ai — planejamento de aulas alinhado à BNCC.
 
 export type EtapaEnsino =
   | 'educacao_infantil'

@@ -34,7 +34,7 @@ export default function Dashboard() {
   if (planos.length === 0) {
     return (
       <div className="text-center py-20">
-        <h1 className="text-2xl font-semibold text-slate-800 mb-2">Bem-vindo(a) ao Plano Certo</h1>
+        <h1 className="text-2xl font-semibold text-slate-800 mb-2">Bem-vindo(a) ao ensina.ai</h1>
         <p className="text-slate-500 max-w-md mx-auto mb-6">
           Monte planos de aula alinhados à BNCC em poucos passos: informe a turma, o tema e as
           necessidades específicas dos alunos, e revise o plano gerado automaticamente.
